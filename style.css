@@ -1,23 +1,30 @@
-h1{
-    color:red;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.frist{
-    color:pink;
+h1 {
+  color: red;
 }
 
-.second{
-    color:green;
+.frist {
+  color: pink;
 }
 
-.third{
-    color:blue;
+.second {
+  color: green;
 }
 
-.div1{
-    border:2px solid red;
-    padding: 10px;
-    margin: 10px;
-    background-color: blue;
-    color:white;
+.third {
+  color: blue;
+}
+
+.div1 {
+  /* units is css */
+  /* px, em, rem, %, vw, vh, vmin, vmax */
+  border: 2px solid red;
+  padding: 10px;
+  /* margin: 10px; */
+  background-color: blue;
+  color: white;
 }
