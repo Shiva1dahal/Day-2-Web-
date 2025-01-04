@@ -1,0 +1,23 @@
+h1{
+    color:red;
+}
+
+.frist{
+    color:pink;
+}
+
+.second{
+    color:green;
+}
+
+.third{
+    color:blue;
+}
+
+.div1{
+    border:2px solid red;
+    padding: 10px;
+    margin: 10px;
+    background-color: blue;
+    color:white;
+}
